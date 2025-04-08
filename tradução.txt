@@ -1,0 +1,34 @@
+tradução inglês
+Menu
+	Home
+	Properties
+	About Us
+	Contact
+
+
+
+Título principal
+	Find Your Dream Home
+
+Subtítulo
+	Explore our wide range of properties and find the perfect home for you.
+	
+Botões
+	Search Properties
+	Learn More
+	
+	
+Contato
+	Get in touch with us today!
+	Contact Us
+	Phone
+	Office
+	
+	Subscribe to our newsletter for the latest updates on new features and product releases.
+	Subscribe
+	
+	
+	
+Rodapé
+	All rights reserved.
+	
