@@ -49,3 +49,26 @@ function fnBanner3(){
 function fnBanner4(){
     document.getElementById("banner").src="images/banner04.jpg"
 }
+
+function fnCadastraEmail(){
+    let email = document.getElementById("email").value
+
+    alert("Seu email [" + email + "] foi cadastrado com sucesso.")
+
+    document.getElementById("email").value = ""
+}
+
+function fnAtualizaHora(){
+    const agora = new Date();
+    const horas = agora.getHours();
+    const minutos = agora.getMinutes();
+    const segundos = agora.getSeconds();
+
+    document.getElementById("hora").textContent = "Hora atual: "+ horas +":"+ minutos +":"+ segundos
+
+}
+
+document.addEventListener("DOMContentLoaded", function () {
+    fnAtualizaHora();
+    setInterval(fnAtualizaHora, 1000); 
+});
