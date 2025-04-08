@@ -33,3 +33,19 @@ function fnIdiomaPtBr(){
         document.getElementById("footer-txt2").innerText = "Cadastrar"
         document.getElementById("rodape").innerText = "© 2025 Enzo Lanzi. Todos os direitos reservados."
 }
+
+function fnBanner1(){
+    document.getElementById("banner").src="images/banner01.jpg"
+}
+
+function fnBanner2(){
+    document.getElementById("banner").src="images/banner02.jpg"
+}
+
+function fnBanner3(){
+    document.getElementById("banner").src="images/banner03.jpg"
+}
+
+function fnBanner4(){
+    document.getElementById("banner").src="images/banner04.jpg"
+}
